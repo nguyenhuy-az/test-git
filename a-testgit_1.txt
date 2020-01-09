@@ -1,1 +1,4 @@
 file test thu 2
+
+----
+master đã thêm nội dung
